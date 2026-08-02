@@ -1,0 +1,2 @@
+import type { MetadataRoute } from "next";
+export default function sitemap(): MetadataRoute.Sitemap { const base="https://fishersdentrepair.com"; return ["", "/is-pdr-right-for-my-dent", "/paintless-dent-repair-cost", "/how-it-works", "/services/hail-damage-repair", "/services/door-ding-repair", "/services/minor-dent-repair", "/privacy", "/terms"].map((path, i)=>({url:`${base}${path}`,lastModified:new Date("2026-08-02"),changeFrequency:i===0?"weekly":"monthly",priority:i===0?1:path.includes("services")?.8:.7})); }
