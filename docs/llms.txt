@@ -1,0 +1,20 @@
+# Fishers Dent Repair Guide
+
+> An independent consumer information and provider-matching website for paintless dent repair requests in Fishers, Indiana. The website is not a repair shop, insurer, adjuster, or government service and does not claim a physical business location.
+
+## Core guides
+- [Homepage](https://fishersdentrepair.com/): PDR overview and request form
+- [Is PDR right for my dent?](https://fishersdentrepair.com/is-pdr-right-for-my-dent): Suitability factors and photo guidance
+- [PDR cost guide](https://fishersdentrepair.com/paintless-dent-repair-cost): Factors that affect estimates
+- [How it works](https://fishersdentrepair.com/how-it-works): Referral process and compensation disclosure
+
+## Damage guides
+- [Hail damage](https://fishersdentrepair.com/services/hail-damage-repair)
+- [Door dings](https://fishersdentrepair.com/services/door-ding-repair)
+- [Minor dents](https://fishersdentrepair.com/services/minor-dent-repair)
+
+## Important facts
+- Paintless dent repair may be suitable when factory paint is intact and panel metal is accessible and not severely stretched.
+- Final suitability and price require evaluation by an independent repair provider.
+- Provider availability, insurance coverage, prices, and outcomes are not guaranteed.
+- A participating provider may pay the website for advertising, referrals, or qualified leads.
