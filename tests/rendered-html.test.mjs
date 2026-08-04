@@ -15,6 +15,7 @@ test("server-renders an honest, indexable homepage", async () => {
   assert.match(html, /Paintless Dent Repair Fishers IN/);
   assert.match(html, /independent consumer resource and referral service/i);
   assert.match(html, /Request a free assessment/i);
+  assert.match(html, /Up to 5 photos/i);
   assert.match(html, /application\/ld\+json/i);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton/i);
   assert.doesNotMatch(html, /aggregateRating|LocalBusiness/i);
